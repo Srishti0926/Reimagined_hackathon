@@ -9,10 +9,11 @@ Enhancement solution using ML to discover fraud patterns in proactive way to dis
 - Made it compatible to deploy with existing fraud decisioning system, decreasing the SLA and developmnent time to a great extent .
 
   UI link: https://zealous-wave-0845bc400.6.azurestaticapps.net/
-  
+
+  ![image](https://github.com/user-attachments/assets/a21f1b8f-9e14-4076-a772-6dd4dae3dfe4)
 
 
- ![image](https://github.com/user-attachments/assets/387e7864-1d79-4a7f-89bd-c7676ad51ea8)
+
 
  
 
