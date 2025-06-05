@@ -7,3 +7,9 @@ Enhancement solution using ML to discover fraud patterns in proactive way to dis
 - **Feature Engineering**: Creates new features from existing data to improve model performance.
 - **Model Training**: Trains machine learning models using historical data to detect fraud patterns.
 - Made it compatible to deploy with existing fraud decisioning system, decreasing the SLA and developmnent time to a great extent .
+
+  UI link: https://zealous-wave-0845bc400.6.azurestaticapps.net/
+  
+
+
+ 
