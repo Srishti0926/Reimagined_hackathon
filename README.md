@@ -12,4 +12,7 @@ Enhancement solution using ML to discover fraud patterns in proactive way to dis
   
 
 
+ ![image](https://github.com/user-attachments/assets/387e7864-1d79-4a7f-89bd-c7676ad51ea8)
+
  
+
